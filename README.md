@@ -1,2 +1,3 @@
 # Manejo-de-V-lvula
-Este es el repo donde se van a manejar las versiones de códigos de apertura y cierre de una válvula de aire. 
+En este repositorio se manejan las versiones de códigos de apertura y cierre de una válvula de aire. 
+Me faltaría poner una descripción más acorde de los componentes utilizados, esquemáticos, etc. 
